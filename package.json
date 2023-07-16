@@ -1,0 +1,15 @@
+{
+  "name": "todolist2",
+  "version": "1.0.0",
+  "description": "another iteration of todolist ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qawitherev666",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.5.1"
+  }
+}
